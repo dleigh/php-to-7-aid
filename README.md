@@ -24,11 +24,11 @@ phpTo7aid is licensed under the MIT License - see the `LICENSE` file for details
 ##### Installing #####
 Using [composer](https://getcomposer.org/download/).
 
-`composer require gisostallenberg/php-to-7-aid`
+`composer require dleigh/php-to-7-aid`
 
 Run directly
 
-`wget https://github.com/gisostallenberg/php-to-7-aid/raw/master/php-to-7-aid.phar -O php-to-7-aid.phar; php php-to-7-aid.phar run`
+`wget https://github.com/dleigh/php-to-7-aid/raw/master/php-to-7-aid.phar -O php-to-7-aid.phar; php php-to-7-aid.phar run`
 
 
 ##### Backward Incompatible Changes in PHP 7 #####
